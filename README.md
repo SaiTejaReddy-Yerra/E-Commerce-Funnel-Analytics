@@ -252,10 +252,3 @@ The SQL query is 30% of the value.
 The business recommendation is 70%.
 Every analysis should answer: so what should we do differently?
 
----
-
-## Contact
-
-Your Name
-LinkedIn: linkedin.com/in/yourprofile
-Email: your@email.com
